@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024506271440",
+    "firebase_url": "https://fir-check-33e4e.firebaseio.com",
+    "project_id": "fir-check-33e4e",
+    "storage_bucket": "fir-check-33e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024506271440:android:a5171bbc0eeec47d3e70d5",
+        "android_client_info": {
+          "package_name": "com.rk.firebasecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024506271440-7m4g3hir7e2oremns0c6ar5l2ank08r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3VjxmILx38zA6uYufDpYtXSFYRSm7TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024506271440-7m4g3hir7e2oremns0c6ar5l2ank08r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
